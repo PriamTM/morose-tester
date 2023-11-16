@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Master Branch
+          Master Branches
         </p>
       </header>
     </div>
