@@ -15,7 +15,7 @@
     "settings": {
         "terminal.integrated.shell.linux": "/usr/bin/zsh",
         "workbench.colorCustomizations": {
-        "editorLineNumber.foreground": "#00ff00"
+            "editorLineNumber.foreground": "#00ff00"
         },
         "files.exclude": {
             "**/CODE_OF_CONDUCT.md": true,
