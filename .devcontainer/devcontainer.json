@@ -18,23 +18,5 @@
             "**/CODE_OF_CONDUCT.md": true,
             "**/LICENSE": true
         }
-    },
-    "tasks": [
-        {
-            "label": "Start App",
-            "type": "shell",
-            "command": "npm start",
-            "windows": {
-                "command": "npm start"
-            },
-            "group": "none",
-            "presentation": {
-                "reveal": "always",
-                "panel": "new"
-            },
-            "runOptions": {
-                "runOn": "folderOpen",
-            }
-        }
-    ]
+    }
 }
