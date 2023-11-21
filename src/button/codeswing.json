@@ -1,0 +1,10 @@
+{
+  "scripts": [
+    "react",
+    "react-dom"
+  ],
+  "styles": [],
+  "scriptType": "module",
+  "showConsole": true,
+  "autoRun": "onEdit"
+}

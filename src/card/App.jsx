@@ -1,15 +1,15 @@
 import '../App.css';
 
-function Button() {
+function Card() {
   return (
     <div className="App">
       <header className="App-header">
         <p>
-          Button
+          Card
         </p>
       </header>
     </div>
   );
 }
 
-export { Button };
+export default Card;
