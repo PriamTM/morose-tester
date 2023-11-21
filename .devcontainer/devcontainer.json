@@ -18,5 +18,13 @@
             "**/CODE_OF_CONDUCT.md": true,
             "**/LICENSE": true
         }
-    }
+    },
+    ,
+	"features": {
+		"ghcr.io/devcontainers/features/node:1": {
+			"nodeGypDependencies": true,
+			"version": "16",
+			"nvmVersion": "latest"
+		}
+	}
 }
