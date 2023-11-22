@@ -5,7 +5,7 @@ function Button() {
     <div className="App">
       <header className="App-header">
         <p>
-          Button edited
+          Basic Buttons
         </p>
       </header>
     </div>

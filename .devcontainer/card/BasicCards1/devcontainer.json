@@ -1,5 +1,5 @@
 {
-    "name": "Button Template",
+    "name": "BasicCards1",
     "extensions": [
         "coenraads.bracket-pair-colorizer-2",
         "cschleiden.vscode-github-actions",
@@ -11,7 +11,7 @@
         "visualstudioexptteam.vscodeintellicode",
         "codespaces-contrib.codeswing"
     ],
-    "dockerFile": "Dockerfile",
+    "dockerFile": "../Dockerfile",
     "settings": {
         "terminal.integrated.shell.linux": "/usr/bin/zsh",
         "files.exclude": {
@@ -25,5 +25,7 @@
 		"version": "16",
 		"nvmVersion": "latest"
 	}
-   }
+   },
+   "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
+   "workspaceFolder": "/workspace/src/card"
 }
