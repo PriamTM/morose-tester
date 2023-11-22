@@ -11,7 +11,7 @@
         "visualstudioexptteam.vscodeintellicode",
         "codespaces-contrib.codeswing"
     ],
-    "dockerFile": "Dockerfile",
+    "dockerFile": "../Dockerfile",
     "settings": {
         "terminal.integrated.shell.linux": "/usr/bin/zsh",
         "files.exclude": {
