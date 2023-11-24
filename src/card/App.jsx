@@ -5,7 +5,7 @@ function Card() {
     <div className="App">
       <header className="App-header">
         <p>
-          Basic Cards 1
+          Basic Cards 2
         </p>
       </header>
     </div>
